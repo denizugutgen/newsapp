@@ -1,0 +1,53 @@
+is_global = true
+build_property.TargetFramework = net7.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = newsapp
+build_property.ProjectDir = /Users/denizugutgen/Projects/newsapp/newsapp/
+
+[/Users/denizugutgen/Projects/newsapp/newsapp/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = newsapp.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[/Users/denizugutgen/Projects/newsapp/newsapp/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = newsapp.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[/Users/denizugutgen/Projects/newsapp/newsapp/Pages/NewsDetailPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = newsapp.Pages.NewsDetailPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages/NewsDetailPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages/NewsDetailPage.xaml
+
+[/Users/denizugutgen/Projects/newsapp/newsapp/Pages/NewsHomePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = newsapp.Pages.NewsHomePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages/NewsHomePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages/NewsHomePage.xaml
+
+[/Users/denizugutgen/Projects/newsapp/newsapp/Pages/NewsListPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = newsapp.Pages.NewsListPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages/NewsListPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages/NewsListPage.xaml
+
+[/Users/denizugutgen/Projects/newsapp/newsapp/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = newsapp.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Colors.xaml
+
+[/Users/denizugutgen/Projects/newsapp/newsapp/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = newsapp.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml
