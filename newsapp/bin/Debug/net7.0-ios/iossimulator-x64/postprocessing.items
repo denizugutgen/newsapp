@@ -7,9 +7,9 @@
       <dSYMSourcePathExists>false</dSYMSourcePathExists>
       <NoSymbolStrip>true</NoSymbolStrip>
       <dSYMInfoPlistRelativePath>newsapp.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
-      <SymbolFile>/Users/denizugutgen/Projects/newsapp/newsapp/obj/Debug/net7.0-ios/iossimulator-x64/mtouch-symbols.list</SymbolFile>
+      <SymbolFile>/Users/denizugutgen/Desktop/cet 5th semester/newsapp/newsapp/obj/Debug/net7.0-ios/iossimulator-x64/mtouch-symbols.list</SymbolFile>
       <DSymName>newsapp.app.dSYM</DSymName>
-      <SourceProjectPath>/Users/denizugutgen/Projects/newsapp/newsapp</SourceProjectPath>
+      <SourceProjectPath>/Users/denizugutgen/Desktop/cet 5th semester/newsapp/newsapp</SourceProjectPath>
     </_PostProcessingItem>
   </ItemGroup>
 </Project>

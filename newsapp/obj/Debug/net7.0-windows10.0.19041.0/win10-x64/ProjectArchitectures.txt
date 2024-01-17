@@ -1,0 +1,1 @@
+C:\Users\ufukc\source\repos\newsapp\newsapp\newsapp.csproj;x64

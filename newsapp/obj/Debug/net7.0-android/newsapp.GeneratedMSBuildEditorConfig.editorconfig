@@ -12,45 +12,51 @@ build_property.EnableSingleFileAnalyzer = true
 build_property.EnableTrimAnalyzer = false
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = newsapp
-build_property.ProjectDir = /Users/denizugutgen/Projects/newsapp/newsapp/
+build_property.ProjectDir = /Users/denizugutgen/Desktop/cet 5th semester/newsapp/newsapp/
 
-[/Users/denizugutgen/Projects/newsapp/newsapp/App.xaml]
+[/Users/denizugutgen/Desktop/cet 5th semester/newsapp/newsapp/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = newsapp.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[/Users/denizugutgen/Projects/newsapp/newsapp/AppShell.xaml]
+[/Users/denizugutgen/Desktop/cet 5th semester/newsapp/newsapp/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = newsapp.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[/Users/denizugutgen/Projects/newsapp/newsapp/Pages/NewsDetailPage.xaml]
+[/Users/denizugutgen/Desktop/cet 5th semester/newsapp/newsapp/Pages/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = newsapp.Pages.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages/MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages/MainPage.xaml
+
+[/Users/denizugutgen/Desktop/cet 5th semester/newsapp/newsapp/Pages/NewsDetailPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = newsapp.Pages.NewsDetailPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages/NewsDetailPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages/NewsDetailPage.xaml
 
-[/Users/denizugutgen/Projects/newsapp/newsapp/Pages/NewsHomePage.xaml]
+[/Users/denizugutgen/Desktop/cet 5th semester/newsapp/newsapp/Pages/NewsHomePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = newsapp.Pages.NewsHomePage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages/NewsHomePage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages/NewsHomePage.xaml
 
-[/Users/denizugutgen/Projects/newsapp/newsapp/Pages/NewsListPage.xaml]
+[/Users/denizugutgen/Desktop/cet 5th semester/newsapp/newsapp/Pages/NewsListPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = newsapp.Pages.NewsListPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages/NewsListPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages/NewsListPage.xaml
 
-[/Users/denizugutgen/Projects/newsapp/newsapp/Resources/Styles/Colors.xaml]
+[/Users/denizugutgen/Desktop/cet 5th semester/newsapp/newsapp/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = newsapp.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Colors.xaml
 
-[/Users/denizugutgen/Projects/newsapp/newsapp/Resources/Styles/Styles.xaml]
+[/Users/denizugutgen/Desktop/cet 5th semester/newsapp/newsapp/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = newsapp.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml

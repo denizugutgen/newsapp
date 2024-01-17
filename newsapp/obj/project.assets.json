@@ -18753,11 +18753,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/denizugutgen/Projects/newsapp/newsapp/newsapp.csproj",
+      "projectUniqueName": "/Users/denizugutgen/Desktop/cet 5th semester/newsapp/newsapp/newsapp.csproj",
       "projectName": "newsapp",
-      "projectPath": "/Users/denizugutgen/Projects/newsapp/newsapp/newsapp.csproj",
+      "projectPath": "/Users/denizugutgen/Desktop/cet 5th semester/newsapp/newsapp/newsapp.csproj",
       "packagesPath": "/Users/denizugutgen/.nuget/packages/",
-      "outputPath": "/Users/denizugutgen/Projects/newsapp/newsapp/obj/",
+      "outputPath": "/Users/denizugutgen/Desktop/cet 5th semester/newsapp/newsapp/obj/",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [

@@ -71,7 +71,6 @@
 	  <None Remove="Resources\Images\world-removebg-preview.png" />
 	</ItemGroup>
 	<ItemGroup>
-	  <Folder Include="Pages\" />
 	  <Folder Include="Models\" />
 	  <Folder Include="Services\" />
 	</ItemGroup>
@@ -85,5 +84,10 @@
 	  <BundleResource Include="Resources\Images\sports.png" />
 	  <BundleResource Include="Resources\Images\tech_removebg.png" />
 	  <BundleResource Include="Resources\Images\world_removebg.png" />
+	</ItemGroup>
+	<ItemGroup>
+	  <MauiXaml Update="Pages\MainPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	</ItemGroup>
 </Project>

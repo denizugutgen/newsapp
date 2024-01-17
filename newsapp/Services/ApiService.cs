@@ -1,5 +1,5 @@
 ﻿using Newtonsoft.Json;
-using  static Android.Provider.DocumentsContract;
+using newsapp.Models;
 
 namespace newsapp.Services
 {

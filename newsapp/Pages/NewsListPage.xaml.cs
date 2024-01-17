@@ -5,9 +5,8 @@ namespace newsapp.Pages;
 
 public partial class NewsListPage : ContentPage
 {
-    ApiService apiService;
+    
     public List<Article> ArticlesList;
-    private object selectedItem;
 
     public object CurrentSelection { get; private set; }
 
@@ -22,7 +21,7 @@ public partial class NewsListPage : ContentPage
 
     private async void GetNews(string categoryName)
     {
-        apiService = new ApiService();
+        
         var newsResult = await ApiService.GetNews(categoryName);
         foreach (var item in newsResult.Articles)
         {

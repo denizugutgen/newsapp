@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AeTrUZDxKqVSjl/LhLtGI4fQgXWQcIxf5NWPe5pYbWZBAt5tzq4IrqG14NN0kzAx8DHpQTvl5iAwuBlxFR6swA==",
+  "dgSpecHash": "r8bfiVSiqeB3Uod6L6uZdfTMEu07Vi4zo22HEz6CjfegNgbgai/lg2QKbZA/WpCDJykBg0oGWfZNhHo9i9WpBA==",
   "success": true,
-  "projectFilePath": "/Users/denizugutgen/Projects/newsapp/newsapp/newsapp.csproj",
+  "projectFilePath": "/Users/denizugutgen/Desktop/cet 5th semester/newsapp/newsapp/newsapp.csproj",
   "expectedPackageFiles": [
     "/Users/denizugutgen/.nuget/packages/googlegson/2.9.1.1/googlegson.2.9.1.1.nupkg.sha512",
     "/Users/denizugutgen/.nuget/packages/microsoft.extensions.configuration/7.0.0/microsoft.extensions.configuration.7.0.0.nupkg.sha512",
